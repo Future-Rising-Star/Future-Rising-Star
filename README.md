@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Future-Rising-Star
 - 👀 I’m interested in Python, Maxima, & Octave to assist me in my mathematics, physics, and engineering.
-- 🌱 I’m currently learning Python, Maxima, & Octave
+- 🌱 I’m currently learning Python, Maxima, R, & Octave
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
